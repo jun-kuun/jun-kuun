@@ -2,6 +2,8 @@
 
 👋 Hi, I'm a **Developer** who likes **JavaScript**.. <img src="https://img.shields.io/badge/Like Coffee-000000?style=square&logo=Buy Me A Coffee&logoColor=white"/> 
 
+The goal is to be a **Full Stack Developer**.
+
 ### Tech Stack
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=square&logo=Javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Html5-E34F26?style=square&logo=Html5&logoColor=white"/> <img src="https://img.shields.io/badge/Css3-1572B6?style=square&logo=Css3&logoColor=white"/> 
@@ -41,6 +43,9 @@
 <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=square&logo=ReactiveX&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=square&logo=Svelte&logoColor=white"/>
 
+### Skill
+
+<a href="https://www.credly.com/badges/e49945df-72ba-4577-b1e2-e2a35e175f12/public_url"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/><a/>
   
 <br/><br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjun-kuun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hello%2C+world%21&edge_flat=false)](https://hits.seeyoufarm.com)
