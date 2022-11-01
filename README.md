@@ -43,7 +43,7 @@ The goal is to be a **Full Stack Developer**.
 <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=square&logo=ReactiveX&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=square&logo=Svelte&logoColor=white"/>
 
-### Skill
+### Certification
 
 <a href="https://www.credly.com/badges/e49945df-72ba-4577-b1e2-e2a35e175f12/public_url"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/><a/>
   
